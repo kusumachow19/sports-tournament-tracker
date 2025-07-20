@@ -123,7 +123,6 @@ ORDER BY win_percentage DESC;
 - **MySQL** (8.x)
 - **MySQL Workbench** / CLI
 - **SQL Views & CTEs**
-- **Python** (for reporting automation)
 
 ---
 
